@@ -35,6 +35,6 @@ Settings. In Netscape (and derived browsers such as Mozilla), you can set the pr
 Options > Advanced tab > Network tab > Connection Settings. In both cases you need to give the
 address of the proxy and the port number that you gave when you ran the proxy server. You should be
 able to run the proxy and the browser on the same computer without any problem. With this approach,
-to get a web page using the proxy server, you simply provide the URL of the page you want. For e.g.
+to get a web page using the proxy server, you simply provide the URL of the page you want. For e.g:
             
               http://www.google.com
